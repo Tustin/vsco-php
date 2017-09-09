@@ -1,0 +1,13 @@
+{
+    "name": "tustin/vsco-php",
+    "description": "VSCO API wrapper, written in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tustin",
+            "email": "tustin@nextgenupdate.com"
+        }
+    ],
+    "require": {}
+}
